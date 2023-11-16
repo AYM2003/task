@@ -1,0 +1,8 @@
+prefix=/home/aym/catkin_ws/install
+
+Name: firstdnt
+Description: Description of firstdnt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
